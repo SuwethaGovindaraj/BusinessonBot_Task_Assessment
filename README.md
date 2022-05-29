@@ -21,6 +21,8 @@ MODELS USED:
 
 Finally Viewed the Accuracy Matrix For the Fitted Models
 
+![Screenshot_4](https://user-images.githubusercontent.com/69303196/170854848-566e8e97-0fd2-4310-bf2b-31e7e279746e.png)
+
 SUPPORT VECTOR MACHINE :
           Support vector machines are a set of supervised learning methods used for classification, regression and outliers detection. The advantages of support vector machines are: Effective in high dimensional spaces. Still effective in cases where number of dimensions is greater than the number of samples.
 
